@@ -33,9 +33,6 @@ export function Hero() {
           >
             Ver Projetos <ArrowRight size={20} />
           </button>
-          <button className="btn-secondary">
-            Baixar CV
-          </button>
         </div>
 
         <div className="flex gap-6 justify-center">
